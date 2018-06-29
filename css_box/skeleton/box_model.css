@@ -26,13 +26,14 @@ div {
 }
 
 p {
-  background-color: #7fdbff;
-  /* display: inline; */
+  /* background-color: #7fdbff; */
+  display: inline;
 }
 
 .image-1-container {
+  padding: 50px;
   width: 200px;
-  height: 600px;
+  /* height: 600px; */
   background-color: blanchedalmond;
 }
 
@@ -41,12 +42,13 @@ p {
 }
 
 .image-2-container {
+  padding: 50px;
   display: inline-block;
-  width: 200px;
-  height: 600px;
+  width: 50%;
+  /* height: 600px; */
   background-color: blanchedalmond;
 }
 
 .image-2-container img {
-  display: inline;
+  /* display: inline; */
 }
